@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "training-fire-7180c": {
+      "hosting": {
+        "tasky": [
+          "training-fire-7180c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "training-fire-7180c"
+  }
+}
